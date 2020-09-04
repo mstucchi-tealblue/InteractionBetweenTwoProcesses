@@ -10,6 +10,6 @@ Window {
     Text {
         id: name
         anchors.centerIn: parent
-        text: qsTr("Mamma" + argc)
+        text: qsTr("Passed ID: " + passedArg)
     }
 }

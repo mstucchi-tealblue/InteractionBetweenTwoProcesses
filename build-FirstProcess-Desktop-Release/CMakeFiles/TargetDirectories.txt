@@ -1,0 +1,4 @@
+/home/matteo/Desktop/InteractionBetweenTwoProcesses/build-FirstProcess-Desktop-Release/CMakeFiles/rebuild_cache.dir
+/home/matteo/Desktop/InteractionBetweenTwoProcesses/build-FirstProcess-Desktop-Release/CMakeFiles/edit_cache.dir
+/home/matteo/Desktop/InteractionBetweenTwoProcesses/build-FirstProcess-Desktop-Release/CMakeFiles/FirstProcess.dir
+/home/matteo/Desktop/InteractionBetweenTwoProcesses/build-FirstProcess-Desktop-Release/CMakeFiles/FirstProcess_autogen.dir
