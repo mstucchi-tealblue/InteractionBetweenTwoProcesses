@@ -20,7 +20,8 @@ void Process::startProcessFromQml()
     QString workingDir = "/home/matteo/Desktop/InteractionBetweenTwoProcesses/SecondProcess";
 
 
-    QStringList arguments = {"ListPatientId"};
+    QStringList arguments;
+    arguments << "-vo"<< "gl";
 
     qint64 pid;
     process->startDetached(program, arguments, workingDir, &pid);
